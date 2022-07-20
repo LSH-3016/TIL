@@ -69,13 +69,28 @@
 
 <hr/>
 
-#객체지향 개발 5대 원리(SOLID)
+# 객체지향 개발 5대 원리(SOLID)
 
 ## SRP(단일책임의 원칙, Single Responsibility Principle)
-### ▶ 작성된 클래스는 `하나의 기능`만 가지며 클래스가 제공하는 모든 서비스는 그 `하나의 책임`을 수행하는 데 집중되어 있어야 한다는 원칙
+#### ▶ 작성된 클래스는 `하나의 기능`만 가지며 클래스가 제공하는 모든 서비스는 그 `하나의 책임`을 수행하는 데 집중되어 있어야 한다는 원칙
 ###### 어떤 변화에 의해 클래스를 변경해야 하는 이유는 `오직 하나`뿐이어야 함
 
 ## OCP(개방폐쇄의 원칙, Open Colse Principle)
+#### ▶ 기존의 코드를 변경하지 않으면서 기능을 추가할 수 있도록 설계되어야 한다는 원칙
+###### 요구사항의 변경이나 추가사항이 발생하더라도 기존 구성요소는 `수정이 일어나서는 안되며`, 기존 구성요소를 쉽게 확장해서 `재사용`할 수 있어야 함
+
+## LSP(리스코프 치환의 원칙, The Liskov Substitution Principle)
+#### ▶ 자식 클래스는 최소한 자신의 부모 클래스에서 가능한 행위를 수행할 수 있어야 한다는 원칙
+###### 서브 타입은 언제나 기반 타입으로 교체할 수 있어야 한다 (부모 클래스와 자식 클래스의 행위는 일관 되어야 함)
+
+## ISP(인터페이스 분리 원칙, Interface Segregation Principle)
+#### ▶ 하나의 일반적인 인터페이스보다 여러 개의 구체적인 인터페이스가 낫다는 원칙
+###### 클라이언트는 자신이 이용하지 않는 기능에는 영향을 받지 않아야 한다 (인터페이스를 클라이언트에 `특화되도록 분리`시키는 설계 원칙)
+
+## DIP(의존 역전 원칙, Dependency Inversion Principle)
+#### ▶ 프로그래머는 구체화가 아닌 추상화에 의존해야 한다는 원칙
+###### 변화하기 쉬운 것 또는 자주 변화하는 것보다는 `변화하기 어려운 것`, `거의 변화가 없는 것`에 의존하라는 원칙
+
 
 <hr/>
 
@@ -87,3 +102,8 @@
 * #### 생성자(Constructor)
     * [Kehpi Javatory](https://kephilab.tistory.com/47)
     * [JOKER's ROOM](https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=heartflow89&logNo=220955879645)
+
+* #### 객체지향 개발 5대 원리(SOLID)
+    * [자주와조요](https://velog.io/@kyle/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-SOLID-%EC%9B%90%EC%B9%99-%EC%9D%B4%EB%9E%80)
+    * [넥스트리](https://www.nextree.co.kr/p6960/)
+    * [위키백과](https://ko.wikipedia.org/wiki/SOLID_(%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%EC%84%A4%EA%B3%84))
