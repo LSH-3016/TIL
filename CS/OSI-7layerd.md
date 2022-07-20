@@ -63,6 +63,7 @@ OSI 7계층 단계별 역할
 > * 응용 프로세스 간의 정보 교환을 담당
 
 <br/>
+<hr/>
 
 참고자료
 * [onecoin-life : OSI 7Layer / 7계층 개념 및 역할, 구조까지 한번에 알아보기](https://onecoin-life.com/19)
