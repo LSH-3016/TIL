@@ -99,3 +99,8 @@
   * 간격을 어떻게 설정하느냐에 따라 성능의 차이가 발생
 
 <hr/>
+
+참고자료
+  * [Eom Jung Bin Blog](https://jbhs7014.tistory.com/180)
+  * [위키백과](https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A0%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+  * [hsp1116](https://hsp1116.tistory.com/33)
