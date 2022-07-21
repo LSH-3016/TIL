@@ -54,6 +54,6 @@
 
 ## Map Interface
 #### 키(key), 값(Value)의 쌍으로 이루어진 데이터의 집합으로 순서가 유지되지 않음
-* ### HashMap
+* ### `HashMap`
     #### 중복과 순서가 허용되지 않으며 null값이 올 수 있음
   <pre><code>HashMap<'Integer','String'> a = new HashMap<'Integer','String'>();</code></pre>
