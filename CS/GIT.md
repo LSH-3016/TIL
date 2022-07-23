@@ -40,3 +40,10 @@
     원격 저장소에서 local저장소로 복사
 * ### `git log`
     커밋 내역을 확인
+
+<hr/>
+
+참고자료
+ * [갓대희의 작은 공간](https://goddaehee.tistory.com/91)
+ * [내일의 나는 오늘의 내가 만든다](https://velog.io/@shin6403/Git-%EC%9D%B4%EB%9E%80)
+ * [java-man](https://java-man.tistory.com/12)
