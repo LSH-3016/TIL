@@ -1,7 +1,7 @@
 OSI-7계층
 ===========
 
-![](./CS_IMG/osi_7layerd.png)
+![](../CS_IMG/osi_7layerd.png)
 
 
 OSI 7계층이란?
