@@ -1,4 +1,4 @@
-#Java Collection이란?
+# Java Collection이란?
 ### ▶ `데이터의 집합, 그룹`
 ![](../CS_IMG/Java_Collection.png)
 
