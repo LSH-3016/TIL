@@ -1,6 +1,6 @@
 # 접근제한자(Access Modifier)란?
 ### ▶ 객체의 멤버들에게 `접근 제한`을 거는 것
-![](./CS_IMG/Access_Modifier.jpg)
+![](../CS_IMG/Access_Modifier.jpg)
 
 ## 종류
 ### public
