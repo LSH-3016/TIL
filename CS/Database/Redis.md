@@ -12,7 +12,7 @@
 
 <hr/>
 
-# Redis
+# Redis (Remote Dictionary Server)
 #### ▶ Key, Value 구조의 비정형 데이터를 저장하고 관리하기 위한 오픈 소스 기반의 비관계형 DBMS
 
 #### DB, Cache, Message Queue, Shared Memory 용도로 사용 (주로 Cache 서버를 구현할 때)
@@ -45,3 +45,11 @@
 * ### 메모리 관리가 중요
 * ### 싱글 스레드
     ####  한 번에 하나의 명령만 처리 가능 → 많은 처리 시간이 소요되는 요청 명령은 피해야함
+
+<hr/>
+
+참고자료
+* [느리더라도 꾸준하게](https://steady-coding.tistory.com/586)
+* [여기 저번에 왔던 것 같은대?](https://wildeveloperetrain.tistory.com/21)
+* [Gyun's 개발일지](https://devlog-wjdrbs96.tistory.com/374)
+* 
