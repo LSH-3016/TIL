@@ -52,4 +52,3 @@
 * [느리더라도 꾸준하게](https://steady-coding.tistory.com/586)
 * [여기 저번에 왔던 것 같은대?](https://wildeveloperetrain.tistory.com/21)
 * [Gyun's 개발일지](https://devlog-wjdrbs96.tistory.com/374)
-* 
