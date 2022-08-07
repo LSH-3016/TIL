@@ -30,15 +30,15 @@
 
 # Spring Process
 ![](../CS_IMG/Spring_Process.png)
-### ① DispatcherServlet이 모든 웹 브라우저로부터 요청을 받음
-### ② DispatcheServlet은 HandlerMapping으로 부터 주어진 request를 처리할 수 있는 Handler객체를 가져옴
-### ③ 가져온 Handler를 실행 시킬 수 있는 HandlerAdapter객체를 가져옴
-### ④ 만약 해당 Controller를 처리할 Handler 객체에 적용할 interceptor가 존재한다면 모든 interceptor객체의 preHandle메소드를 호출
-### ⑤ HanlderAdapter객체를 통해 실제 컨트롤러의 메소드를 실행 후 ModelAndView를 얻음
-### ⑥ 만약 해당 Controller를 처리할 Handler 객체에 적용할 interceptor가 존재한다면 모든 interceptor객체의 postHandle메소드를 호출
-### ⑦ DispatcherServlet이 5번 과정에서 얻은 ModelAndView를 통해 view name을 ViewResolver에 전달하여 응답에 필요한 View객체를 얻음
-### ⑧ DispatcherServlet은 위에서 얻은 View객체에 5번 과정에서 얻은 ModelAndView의 Model을 파라미터로 넘겨주어 render메소드를 호출하여 페이지 렌더링을 수행
-### ⑨ DispatcherServlet은 렌더링 된 페이지를 response로 사용자에게 return
+#### ① DispatcherServlet이 모든 웹 브라우저로부터 요청을 받음
+#### ② DispatcheServlet은 HandlerMapping으로 부터 주어진 request를 처리할 수 있는 Handler객체를 가져옴
+#### ③ 가져온 Handler를 실행 시킬 수 있는 HandlerAdapter객체를 가져옴
+#### ④ 만약 해당 Controller를 처리할 Handler 객체에 적용할 interceptor가 존재한다면 모든 interceptor객체의 preHandle메소드를 호출
+#### ⑤ HanlderAdapter객체를 통해 실제 컨트롤러의 메소드를 실행 후 ModelAndView를 얻음
+#### ⑥ 만약 해당 Controller를 처리할 Handler 객체에 적용할 interceptor가 존재한다면 모든 interceptor객체의 postHandle메소드를 호출
+#### ⑦ DispatcherServlet이 5번 과정에서 얻은 ModelAndView를 통해 view name을 ViewResolver에 전달하여 응답에 필요한 View객체를 얻음
+#### ⑧ DispatcherServlet은 위에서 얻은 View객체에 5번 과정에서 얻은 ModelAndView의 Model을 파라미터로 넘겨주어 render메소드를 호출하여 페이지 렌더링을 수행
+#### ⑨ DispatcherServlet은 렌더링 된 페이지를 response로 사용자에게 return
 
 <hr/>
 
