@@ -62,3 +62,8 @@
 ### `절차지향`은 데이터를 중심으로 함수 구현
 #### 절차지향 언어를 사용하면, 실행순서·절차가 중점
 
+<hr/>
+
+참고자료
+* [UsefulToKnow](https://usefultoknow.tistory.com/entry/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5Procedural-Programming-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5Object-Oriented-Programming-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%B0%8F-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+* [불곰](https://brownbears.tistory.com/407)
