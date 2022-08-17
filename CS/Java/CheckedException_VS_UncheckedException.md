@@ -20,6 +20,8 @@
 * #### 처리 방법에는 복구, 회피, 전환이 있음
 * #### 예외 처리 여부에 따라 Check Exception과 Unchecked Exception으로 나뉨
 
+<br/>
+
 ## ★ 예외의 종류
 ### 예외는 Checked Exception과 Unchecked Exception으로 구분
 
@@ -40,6 +42,7 @@
 * #### ArrayIndexOutOfBoundsException, NullPointerException 등이 대표적
 * #### 스프링 프레임워크에서 트랜젝션 처리시에 예외가 발생한 경우 롤백을 수행
 
+<br/>
 
 ## ★ 예외처리 방법
 #### 예외 처리 방법에는 `복구,회피,전환`이 있음
