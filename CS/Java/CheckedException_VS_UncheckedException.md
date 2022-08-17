@@ -67,4 +67,3 @@
 * [오늘도 MadPlay!](https://madplay.github.io/post/java-checked-unchecked-exceptions)
 * [Gyun's 개발일지](https://devlog-wjdrbs96.tistory.com/351)
 * [개발자 지니의 기록](https://cocobi.tistory.com/146)
-* []()
