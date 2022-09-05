@@ -67,3 +67,9 @@
   * #### 연결 설정을 하면서 데이터를 함께 보냄
 * ### 클라이언트의 IP가 바뀌어도 연결 유지
   #### Connection ID를 사용하여 IP가 변경되어도 기존의 연결을 계속 유지
+
+<hr/>
+
+참고자료
+* [ziyoonee.log](https://velog.io/@ziyoonee/HTTP1-%EB%B6%80%ED%84%B0-HTTP3-%EA%B9%8C%EC%A7%80-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+* [Noma](https://velog.io/@wiostz98kr/HTTP1.1%EA%B3%BC-HTTP2.0%EC%9D%98-%EC%B0%A8%EC%9D%B4-e2v4x4t1)
