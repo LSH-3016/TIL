@@ -107,3 +107,30 @@
 
 ## 특징
 #### SJF의 특징과 동일
+
+## ■ Multilevel Queue
+#### 프로세스를 기준에 따라 여러 그룹으로 나누어 실행하는 방식
+
+### 프로세스 기준
+* #### System processes: 운영체제 커널 수준의 프로세스
+* #### Interactive processes: 유저 수준의 대화형 프로세스
+* #### Interactive editing processes
+* #### Batch processes: 대화형 프로세스의 반대인 것으로 일정량을 한 번에 처리하는 프로세스(Ex, 컴파일러)
+* #### Student processes
+
+#### 동작방식
+![](../CS_IMG/Multilevel_Queue.png)
+
+## 특징
+* #### 큐마다 우선순위 지정
+* #### 큐마다 자원 할당 시간을 다르게 주거나, 다른 스케줄링 방식 채택 가능
+
+## ■ Multilevel Feedback Queue
+#### Multilevel Queue에 선점형 방식을 적용한 방식
+
+#### 동작방식
+![](../CS_IMG/Multilevel_Feedback_Queue.png)
+
+## 특징
+* #### 오랜시간이 걸리는 큐에서 아래 큐로 자원을 이동 가능
+* #### 우선순위가 높은 큐에 자원 이동 가능
