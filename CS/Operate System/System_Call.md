@@ -50,3 +50,11 @@
 * #### 메시지의 송신, 수신
 * #### 상태 정보 전달
 * #### 원격 장치의 부착 및 분리
+
+<hr/>
+
+참고자료
+* [luckyyowu](https://luckyyowu.tistory.com/133)
+* [limjunho](https://limjunho.github.io/2021/05/11/SystemCall.html)
+* [chaos and order](https://fjvbn2003.tistory.com/306)
+* [DR-Kim](https://dar0m.tistory.com/264)
