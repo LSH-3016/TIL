@@ -80,4 +80,8 @@
 
 <br/>
 
-## [포트와 프로토콜]()
+## [포트와 프로토콜](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)
+
+<br/>
+
+## [도메인 이름과 DNS](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)
