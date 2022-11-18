@@ -81,7 +81,22 @@
 <br/>
 
 ## [포트와 프로토콜](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)
+### `포트 번호`
+#### 컴퓨터에서 통신에 사용하는 프로그램을 식별하는 번호
+### `Well Known Port`
+![](../Image/Well_known_Port.png)
+### [TCP vs UDP](https://github.com/LSH-3016/TIL/blob/main/CS/Network/IP_TCP_UDP_HTTP.md)
+|TCP|UDP|
+|:---:|:---:|
+|통신 신뢰성이 높음|통신 신뢰성이 낮음|
+|연결형 프로토콜|비연결형 프로토콜|
+|창 제어, 재전송 제어, 혼잡 제어 등을 수행|처리가 가볍고 지연이 적음|
+
 
 <br/>
 
 ## [도메인 이름과 DNS](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)
+### `DNS`
+#### 호스트 이름을 IP 주소로 변환하는 서비스
+### `도메인 이름`
+![](../Image/Domain_Name_Layer.jpg)
