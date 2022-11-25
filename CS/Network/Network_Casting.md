@@ -35,3 +35,12 @@
 * ### 트래픽 분산, 네트워크 이중화, DDos 공격의 피해 최소화
 * ### DNS에 이용
   * #### 클라이언트가 DNS 요청을 했을 때, 가장 가까운 DNS 서버가 처리하도록하여 응답속도와 안정성을 향상
+
+<hr/>
+
+참고자료
+* [build good habit](https://buildgoodhabit.tistory.com/96)
+* [개발자를 꿈꾸는 프로그래머](https://jwprogramming.tistory.com/29)
+* [easycelsius.log](https://velog.io/@easycelsius/Network-casting)
+* [끄적끄적 동커벨](https://donghoson.tistory.com/25)
+* [KaKao Tech](https://tech.kakao.com/2014/05/29/anycast/)
