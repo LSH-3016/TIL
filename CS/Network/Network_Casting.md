@@ -2,7 +2,7 @@
 #### 네트워크에서 고유 주소로 메시지를 전송하는 방식
 
 ## Unicast
-<img src = ../CS_IMG/UniCast.png width="50%" height="50%">
+<img src = ../CS_IMG/Unicast.png width="50%" height="50%">
 
 * ### 하나의 목적지로 전송하는 1:1 통신 방식
 * ### Lan카드에서 MAC주소를 목적지 MAC주소와 비교하여 동일하지 않으면 프레임을 버림
@@ -11,7 +11,7 @@
   * #### 호스트의 컴퓨터 리소스도 영향을 줄 수 있음
 
 ## Broadcast
-<img src = ../CS_IMG/BroadCast.png width="50%" height="50%">
+<img src = ../CS_IMG/Broadcast.png width="50%" height="50%">
 
 * ### 송신된 네트워크에 연결된 모든 호스트에게 전송하는 방식
   * #### 송신자가 자신의 그룹 내의 모든 수신자에게 메시지를 전송
@@ -22,7 +22,7 @@
 * ### 트래픽 증가로인한 CPU 성능의 저하를 야기할 수 있음
 
 ## Multicast
-<img src = ../CS_IMG/MultiCast.png width="50%" height="50%">
+<img src = ../CS_IMG/Multicast.png width="50%" height="50%">
 
 * ### 한 번의 전송으로 메시지나 정보를 여러 컴퓨터에 동시 전송하는 1:다 통신 방색
 * ### 수신자를 그룹화하여 해당 수신자(라우터)에 유니캐스트 전송 + 그룹내는 브로드캐스트로 전송
