@@ -36,4 +36,4 @@ do {
 
 참고자료
 * [Development is difficult](https://hun-developer.tistory.com/36)
-* []()
+* [궁금한 Daniel](https://dduddublog.tistory.com/25)
