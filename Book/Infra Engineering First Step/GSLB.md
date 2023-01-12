@@ -1,15 +1,23 @@
 # GSLB(Global Server Load Balancing)
 ### ※ 특정 지역에 집중되는 트래픽을 분산하는 DNS 기반의 로드 밸런싱
 
+<br/>
+
 ## [DNS(Domain Name Service)](https://github.com/LSH-3016/TIL/blob/main/CS/Network/DNS.md)
 ### 도메인 네임을 IP 주소로 매핑해주는 서비스
+
+<br/>
 
 ## DDNS(Dynamic DNS)
 * #### 실시간으로 DNS 갱신하며, 동적 DNS라고 불림
 * #### IP주소가 변경되어도 DNS에서 자동으로 IP주소를 갱신해주어 IP가 변경되어도 정상이용 가능
 
+<br/>
+
 ## [LB(LoadBalancing)](https://github.com/LSH-3016/TIL/blob/main/CS/Network/Load_Balancing.md)
 ### 서버에 가해지는 부하를 분산해주는 장치 또는 기술
+
+<br/>
 
 ## ■ GSLB의 특징
 * #### DNS의 로드밸런싱 문제를 해결하기 위해 등장
