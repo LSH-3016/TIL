@@ -94,7 +94,7 @@
   * ### todoListConfig.java
   ![](../Image/config_repo.png)
 
-<br/>
+<hr/>
 
 참고자료
 * [Heee's Development Blog](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
