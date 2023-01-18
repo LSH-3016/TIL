@@ -50,28 +50,51 @@
 
 ## 클린코드
 * ### 중복 코드의 최소화
+  * ### 변경전 Calculate.java
   ![](../Image/clean_code_1.png)
   <hr/>
   
+  * ### Operator.java에 enum으로 구현
   ![](../Image/clean_code_1-1.png)
 * ### 클린 코드의 조건들
   ![](../Image/clean_code_2.png)
 * ### do-while 사용 X
+  * ### 변경 전 UserNumberService.java
   ![](../Image/clean_code_3.png)
   <hr/>
-
+  
+  * ### 변경 후 UserNumberService.java
   ![](../Image/clean_code_3-1.png)
-  * ### 메소드의 분리
+* ### 메소드의 분리
+  * ### 변경 전 Strike.java
   ![](../Image/clean_code_4.png)
   <hr/>
 
+  * ### compareNumber()메소드로 분리
   ![](../Image/clean_code_4-1.png)
 * ### 객체지향 생활체조
+  * ### 변경 전 Baseball.java
   ![](../Image/clean_code_5.png)
   <hr/>
 
+  * ### 변경 후 Baseball.java
   ![](../Image/clean_code_5-1.png)
 
 <hr/>
 
 ## 객체지향 패러다임
+* ### 인터페이스와 역할 분리 그리고 DI
+  * ### TodoListRepository interface 생성
+  ![](../Image/repo_interface.png)
+  <hr/>
+
+  * ### interface를 상속하여 실제 메소드 구현
+  ![](../Image/map_repo.png)
+
+  * ### todoListConfig.java
+  ![](../Image/config_repo.png)
+
+<br/>
+
+참고자료
+* [Heee's Development Blog](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
