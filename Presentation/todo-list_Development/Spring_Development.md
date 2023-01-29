@@ -6,6 +6,7 @@
 * ### Lombok
 
 <br/>
+<br/>
 
 ## ■ Bean과 Component
 #### 두 방식 모두 Spring 객체로 등록하기 위해 사용되는 어노테이션
@@ -25,6 +26,7 @@
 ![](../Image/package_error.png)
 ![](../Image/package_error_resolve.png)
 
+<br/>
 <br/>
 
 ## ■ Spring Singleton
@@ -50,6 +52,7 @@
 ![](../Image/spring_container_bean_result.png)
 
 <br/>
+<br/>
 
 ## ■ Spring DI
 #### 객체간의 의존성을 없애기 위해, 의존관계를 외부에서 결정하고 주입하는 것
@@ -65,10 +68,21 @@
 * #### 외부에서 변경이 가능할 수 있다는 단점이 있어 지양해야 하는 방법
 ### Constructor Injection
 ![](../Image/constructor_injection_1.png)
-![](../Image/constructor_injection_2.png)
 * #### 생성자를 이용하여 DI하는 방법
 * #### 생성시에 DI를 하므로 NullpointerException을 방지할 수 있음
 * #### final 선언이 가능하여 수정을 방지
 
+<br/>
+<br/>
+
 ## ■ Lombok
 #### 반복 메서드 작성을 줄여주는 코드 다이어트 라이브러리
+### 특징
+* #### 어노테이션을 기반으로 코드 자동생성
+* #### 반복코드의 다이어트로 가독성 및 유지보수 향상
+![](../Image/constructor_injection_2.png)
+
+<hr/>
+
+참고자료
+* [@치얼스헤나](https://cheershennah.tistory.com/183)
